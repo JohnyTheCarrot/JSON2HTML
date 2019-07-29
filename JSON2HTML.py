@@ -9,8 +9,8 @@ print("\033[1;34;40m|  |  |  |  |  |   |   ||     |      |  |  |    \ |  _  ||  
 print("\033[1;34;40m|  |  |  |  |  |   |   ||     |      |  |  |  .  \|  |  ||  |  |\    ||  |  |  | |     ||     ||  .  \\")
 print("\033[1;34;40m|__|__|  |__|  |___|___||_____|      |__|  |__|\_||__|__||__|__| \___||__| |____||_____||_____||__|\_|")
 print("\033[1;34;40m======================================================================================================")
-print("\033[1;34;40mMade by JohnyTheCarrot.\033[1;37;40m")
-print("\033[1;34;40mhttps://github.com/JohnyTheCarrot/JSON2HTML\n")
+print("\033[1;34;40mMade by JohnyTheCarrot.")
+print("\033[1;34;40mhttps://github.com/JohnyTheCarrot/JSON2HTML\033[1;37;40m\n")
 
 error_msg = "An error occured. If you're a visitor, this should be fixed soon. If you're an administator, please check your console."
 
