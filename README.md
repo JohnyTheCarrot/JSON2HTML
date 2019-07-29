@@ -39,15 +39,7 @@ HTML string if successful, HTML string of 404 page, which also returns a 404 sta
 ```json
 {
 	"head": {
-		"title": "KS is a cutie",
-		"links": [
-				{
-            "rel": "stylesheet",
-             "href": "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css",
-             "integrity": "sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T",
-             "crossorigin": "anonymous"
-        }
-     ]
+		"title": "KS is a cutie"
 	},
 	"body": [
 		{
